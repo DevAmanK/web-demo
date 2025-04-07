@@ -8,4 +8,4 @@ Aman Khan
 Delta Student
 
 # duration
-Almost one Year
+Almost one Year.
