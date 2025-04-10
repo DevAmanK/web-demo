@@ -9,3 +9,6 @@ Delta Student
 
 # duration
 Almost one Year.
+
+# completed
+i have completed 53%
